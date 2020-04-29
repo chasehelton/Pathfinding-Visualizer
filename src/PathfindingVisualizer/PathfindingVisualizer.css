@@ -1,0 +1,25 @@
+.grid {
+    margin: 100px;
+}
+
+.top-bar {
+    background-color: rgb(175, 216, 248);
+}
+
+.name {
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: -30px;
+    font-size: 50px;
+}
+
+button {
+    margin: 20px;
+    background-color: rgb(255, 250, 105);
+    text-transform: capitalize;
+    padding: 15px;
+    font-size: 20px;
+    font-family: 'Cambria', sans-serif;
+    text-align: right;
+}
