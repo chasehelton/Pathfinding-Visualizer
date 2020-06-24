@@ -80,7 +80,7 @@ export default class PathfindingVisualizer extends Component {
       <>
         <div class="top-bar">
           <button onClick={() => this.visualizeDijkstra()}>
-            Visualize Dijkstra's Algorithm
+            Visualize Dijkstra's Algorithm Test
           </button>
         </div>
         <div className="grid">
